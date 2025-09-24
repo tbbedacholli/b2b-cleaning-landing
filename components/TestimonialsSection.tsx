@@ -104,7 +104,7 @@ const TestimonialsSection = () => {
                       boxShadow: '0 8px 30px rgba(0,0,0,0.15)',
                     },
                     '&:before': {
-                      content: '"""',
+                      //content: '"“"', // Use a single decorative quote mark
                       position: 'absolute',
                       top: -10,
                       left: 20,
